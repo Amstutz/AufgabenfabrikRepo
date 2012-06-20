@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /app/config
 /app/tmp
 /plugins
@@ -9,4 +9,4 @@ config/database.php
 app/tmp/*
 app/config/database.php
 !empty
->>>>>>> a384cb94887b3be8c3360f54a8811f497b6d0db0
+
