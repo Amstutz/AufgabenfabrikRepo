@@ -1,5 +1,5 @@
 <?php
-class AspectsController extends AppController {
+class AspectsController extends AppController {test43
 
 	var $name = 'Aspects';	
 	
