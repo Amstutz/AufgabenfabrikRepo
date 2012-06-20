@@ -3,7 +3,7 @@
 /app/tmp
 /plugins
 /vendors
-=======
+
 tmp/*
 config/database.php
 app/tmp/*
